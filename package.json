@@ -2,7 +2,7 @@
   "dependencies": {
     "hardhat": "^2.10.1"
   },
-  "name": "NFTWeb3",
+  
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
